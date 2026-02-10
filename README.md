@@ -1,1 +1,3 @@
 K. Sai Santhosh Reddy
+For me, the reason to join Whitehats club is because of my passion in CyberSecurity and curiosity in learning more about it and I am hoping that joining this club will help me in achieving it. Another reason would be that I want to get better at social interaction.
+The most recent news about cybersecurity I have heard is about the data breach that happened in SoundCloud where roughly data of 29.8 million accounts was breached, Attackers found email addresses, display names etc... SoundCloud has announced that none of the details regarding financial information, passwords are stolen.
